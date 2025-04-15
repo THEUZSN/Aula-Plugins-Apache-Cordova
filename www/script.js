@@ -3,6 +3,6 @@
 document.addEventListener("deviceready", onDeviceReady, false );
 
 
-function Vibrar(){
+function vibrar(){
     navigator.vibrate(2000);
 }
